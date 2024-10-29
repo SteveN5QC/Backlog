@@ -7,7 +7,7 @@ List Repositories and projects to Backlog and or archive
 * Git Education 
 * Python 
 * DigiPi 
-* Arduino 
+
 * skills-communicate-using-markdown 
 * hello-world 
 * skills-introduction-to-github 
@@ -17,5 +17,11 @@ List Repositories and projects to Backlog and or archive
 * SDR 
 * Pico Balloons 
 * Backlog 
+
+
+Reactivated
+
+     10/23/24
+         * Arduino 
 
 
